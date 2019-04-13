@@ -1,0 +1,5 @@
+node_modules
+braids_weather_app_client
+
+#api key
+.env 
